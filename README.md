@@ -2,7 +2,7 @@
 
 I am a recent BE graduate in Electronics, Communication and Information Technology from Western Regional Campus, IOE, Tribhuvan University. I am interested in AI/ML, computer vision, medical image analysis, and practical Generative AI applications.
 
-I have hands-on experience with medical image preprocessing, machine learning experiments, deep learning model evaluation, and computer vision projects. I am currently improving my Python development confidence and building practical GenAI/RAG projects.
+I have hands-on experience with medical image preprocessing, machine learning experiments, deep learning model evaluation, and computer vision projects. I am currently learning and building practical GenAI/RAG projects.
 
 ---
 
